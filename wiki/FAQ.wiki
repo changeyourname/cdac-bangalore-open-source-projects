@@ -1,11 +1,11 @@
 #summary One-sentence summary of this page.
 #labels FAQ
 
-= Introduction =
+== Introduction ==
 This page lists frequently asked questions and answers.
 
 
-= Details =
+== Details ==
 
 * What is WLAN?
    Insert WLAN definition here.
