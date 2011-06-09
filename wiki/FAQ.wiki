@@ -7,7 +7,7 @@ This page lists frequently asked questions and answers.
 
 == Details ==
 
-# What is WLAN?
+ # What is WLAN?
    Insert WLAN definition here.
-# What is PandaBoard
+ # What is PandaBoard
    Info about PandaBoard here.
