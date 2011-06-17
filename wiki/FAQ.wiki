@@ -1,6 +1,6 @@
 #summary One-sentence summary of this page.
 #labels FAQ
-
+= Frequently Asked Questions =
 == Introduction ==
 This page lists frequently asked questions and answers.
 
@@ -11,3 +11,4 @@ This page lists frequently asked questions and answers.
    Insert WLAN definition here.
  # What is PandaBoard
    Info about PandaBoard here.
+ *tHIS *
