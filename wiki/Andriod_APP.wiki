@@ -1,0 +1,10 @@
+#Brief Description of Android based APP for Zigbee WSN monitoring  .
+
+= Introduction =
+
+We are developing a multi protocol wireless gateway using panda board as 
+our ref. platform. The gateway is supposed have Android as its platform OS. In our project we are developing an android based Application which continuously monitors the various wireless sensor nodes and updates their status on a map indicating their position and other sensory data they send like temp. data etc.
+
+                  The zigbee gateway gets the information from a Zigbee coordinator which in-turn is connected to the various zigbee routers and endpoints. At first we are aiming at monitoring the nodes and the same later will be upgraded to control the nodes i.e the endpoints and the routers.  
+   
+
